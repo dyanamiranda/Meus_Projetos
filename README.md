@@ -1,2 +1,2 @@
 # Meus_Projetos
- Projetos desenvolvidos para praticar meu aprendizado
+ Projetos desenvolvidos para a prática de exercícios.
